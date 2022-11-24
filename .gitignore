@@ -122,8 +122,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Adding config.py file.
+api_keys.py
+
 .dmypy.json
 dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
